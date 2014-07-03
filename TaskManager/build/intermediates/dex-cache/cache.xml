@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Monstr\Documents\GitHub\TaskManager\TaskManager\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-d851921844f9c4b07ea378275f26a94d42d31cb6.jar"
+        jar="D:\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="C:\Users\Monstr\Documents\GitHub\TaskManager\TaskManager\app\build\intermediates\pre-dexed\debug\support-v13-19.1.0-c117657b5e76a6d45b6b08d8d7a385a5115c8844.jar"
+        jar="D:\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v13\19.1.0\support-v13-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="6b852a232f642c75a7fdfc7212b841b8c8f8959c"/>
+
+</pre-dex-items>
